@@ -19,7 +19,7 @@ There are three notebooks. The first one contains code necessary for Web Scrapin
 
 The second notebook contains the cleaning process and the recommender. You need to use the previous csv file. The reason why the cleanup is separated is to avoid making more requests than necessary to the web page.
 
-The third notebook contains the data analysis based on the 5.000 menus generated in the previous notebook. You need to use the random_menus.csv document.
+The third notebook contains the data analysis based on the 5.000 menus generated in the previous notebook. You need to use the random_5000_recipes.csv document.
 
 A Streamlit application with this recommender will be available in the next days.
 
